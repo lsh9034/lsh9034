@@ -1,4 +1,5 @@
-### Hi there 👋
+### 이시현(Lee Sihyun)
+개인 블로그: [![Sihyun's blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://acoustic-mambo-3cb.notion.site/Sihyun-Lee-417a2d1c5e0342099f17f4d893d4b83c)](https://acoustic-mambo-3cb.notion.site/Sihyun-Lee-417a2d1c5e0342099f17f4d893d4b83c)
 
 <!--
 **lsh9034/lsh9034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
